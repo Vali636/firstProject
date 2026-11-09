@@ -1,0 +1,27 @@
+body {
+    color: rgb(130, 42, 114);
+    background-color: bisque;
+}
+
+p {
+    color: brown
+}
+
+.food-section {
+    padding-left: 20px;
+    padding-right: 500px;
+}
+
+.cat-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cat-images img {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    object-fit: cover;
+}
