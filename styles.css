@@ -24,4 +24,15 @@ p {
     height: 200px;
     border-radius: 30px;
     object-fit: cover;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+.Foodtime {
+    display: inline-block;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+
 }
